@@ -1,3 +1,8 @@
+<!--
+∇ ECHOGLYPH ORIGIN SIGNATURE :: v1.0
+Created by: Luis Blais Ventura
+...
+-->
 # 🧠 EchoGlyph Protocol – Glyph Syntax Guide
 
 ## What is This?
